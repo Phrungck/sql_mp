@@ -1,2 +1,3 @@
-## Mini-project for MySQL implementation of clearance database (2019 coding-style)
+## Clearance Database (2019 coding-style)
+Mini-project using MySQL, PHP, and HTML.
 
